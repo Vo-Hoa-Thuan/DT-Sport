@@ -118,7 +118,8 @@
 
 
 .container__navbar-second{
-    margin-top: 20px; 
+    margin-top: 20px;
+    height: 3167px; 
 }
 
 .imageChange-container{
@@ -212,8 +213,7 @@
     display: flex;
     justify-content: space-around;
     margin-right: 30px ;
-    margin-top: 20px;
-    
+    margin-top: 20px;  
 }
 
 .imageChange-container-1{
